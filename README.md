@@ -48,13 +48,13 @@ react-assignment/
 5. Open `http://localhost:3000/` in your browser.
 
 ## Features
-✅ **Counter Component** – Increment, decrement, reset, and background color changes.  
-✅ **User Form** – Saves data locally and warns before leaving unsaved changes.  
-✅ **Rich Text Editor** – Formats and persists user data.  
-✅ **React Router** – Navigation between components.  
-✅ **State Management** – Uses local storage / Redux Toolkit.  
-✅ **Animations** – Implemented via React Spring.  
-✅ **Optional** – Google Sign-In & Dashboard with Charts.  
+**Counter Component** – Increment, decrement, reset, and background color changes.  
+**User Form** – Saves data locally and warns before leaving unsaved changes.  
+**Rich Text Editor** – Formats and persists user data.  
+**React Router** – Navigation between components.  
+**State Management** – Uses local storage / Redux Toolkit.  
+**Animations** – Implemented via React Spring.  
+**Optional** – Google Sign-In & Dashboard with Charts.  
 
 ## Deployment
 To deploy on **GitHub Pages**, run:
@@ -72,6 +72,3 @@ Or deploy on **Vercel**:
    ```sh
    vercel
    ```
-
-## Author
-**Your Name** – [GitHub Profile](https://github.com/yourusername)
