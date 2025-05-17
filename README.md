@@ -1,4 +1,4 @@
-# project
+# Recipe app
 
 ## Overview
 This is a React-based web application that includes:
