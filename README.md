@@ -1,4 +1,4 @@
-# Recipe app
+# Recipe App
 
 ## Overview
 This is a React-based web application that includes:
@@ -9,24 +9,6 @@ This is a React-based web application that includes:
 - **Material UI / Chakra UI** for styling.
 - **React Spring** for animations.
 - Optional: **User Authentication** (Google Sign-In) and **Dashboard with Charts**.
-
-## Project Structure
-```
-react-assignment/
-│── src/
-│   ├── components/
-│   │   ├── Counter.tsx
-│   │   ├── UserForm.tsx
-│   │   ├── RichTextEditor.tsx
-│   ├── pages/
-│   ├── context/
-│   ├── hooks/
-│   ├── App.tsx
-│   ├── index.tsx
-│── public/
-│── package.json
-│── README.md
-```
 
 ## Installation & Setup
 1. Clone the repository:
