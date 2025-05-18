@@ -1,8 +1,3 @@
-Absolutely! Here's a complete and professional `README.md` file you can use for your Recipe App project. It includes all the details you requested:
-
----
-
-````markdown
 # 🍽️ Recipe App
 
 A modern Recipe App built using **ReactJS** and **Redux** that allows users to search, explore, and save their favorite recipes. It fetches data from the Edamam Recipe API and provides a clean user interface to interact with recipes.
