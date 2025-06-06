@@ -1,6 +1,6 @@
 # 🍽️ Recipe App
 
-A modern Recipe App built using **ReactJS** and **Redux** that allows users to search, explore, and save their favorite recipes. It fetches data from the Edamam Recipe API and provides a clean user interface to interact with recipes.
+A modern Recipe App built using **ReactJS** and **Redux** that allows users to search, explore, and save their favorite recipes. It fetches data from the Edamam Recipe API and provides a clean user interface to interact with recipes.bvnv
 
 # Table of Contents
 - [Introduction](#introduction)
